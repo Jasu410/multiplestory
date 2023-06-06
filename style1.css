@@ -1,0 +1,17 @@
+.jasu{
+    
+    display:flex;
+    justify-content:space-evenly;
+} 
+img{
+    height: 200px;
+    width:200px
+}
+h3{
+    color: black;
+}
+#j{
+    border-style:double;
+    border-end-end-radius: 50px;
+    border-top-left-radius: 50px;
+}
